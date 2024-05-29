@@ -1,0 +1,4 @@
+- terraform should be setup if your using terraform for the first time
+- after going to the Terraform file path
+- give terraform apply 
+- it creates vpc and EC2 instance  
